@@ -1,0 +1,7 @@
+
+@font-face {
+    font-family: "EdwardianScriptITC";        //自定义字体名称
+    src:url("EdwardianScriptITC.ttf");       //字体包路径
+    font-weight: normal;
+    font-style: normal;
+}
